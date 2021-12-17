@@ -12,11 +12,14 @@
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" FontSize="40" Margin="20,25, 20, 0" HorizontalAlignment="Center">This will be a question?</TextBlock>
         
-        <Button Grid.Row="0" FontSize="40" Margin="20,50, 20, 0">Text0</Button>
-        <Button Grid.Row="1" FontSize="40" Margin="20,50, 20, 0">Text1</Button>
-        <Button Grid.Row="2" FontSize="40" Margin="20,50, 20, 0">Text2</Button>
-        <Button Grid.Row="3" FontSize="40" Margin="20,50, 20, 0">Text3</Button>
+        <Button Grid.Row="1" FontSize="40" Margin="20,50, 20, 0" HorizontalAlignment="Center">A. This will be option 1.</Button>
+        <Button Grid.Row="2" FontSize="40" Margin="20,50, 20, 0" HorizontalAlignment="Center">B. This will be option 2.</Button>
+        <Button Grid.Row="3" FontSize="40" Margin="20,50, 20, 0" HorizontalAlignment="Center">C. This will be option 3.</Button>
+        <Button Grid.Row="4" FontSize="40" Margin="20,50, 20, 0" HorizontalAlignment="Center">D. This will be option 4.</Button>
     </Grid>
 </Window>

@@ -7,15 +7,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d9e05b5-40c0-4935-a366-bde0b5391244" name="Changes" comment="" />
+    <list default="true" id="6d9e05b5-40c0-4935-a366-bde0b5391244" name="Changes" comment="1st commit">
+      <change afterPath="$PROJECT_DIR$/BodgeBuzz/Trivia/TriviaItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BodgeBuzz/Trivia/TriviaManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BodgeBuzz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BodgeBuzz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BodgeBuzz/BodgeBuzz.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BodgeBuzz/BodgeBuzz.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BodgeBuzz/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BodgeBuzz/MainWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BodgeBuzz/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BodgeBuzz/MainWindow.xaml.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/825c30d4a4cf464cb7ebb8145854d1f8310000/21/f01a5019/LinkedList`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/26bacf2ab3e74e5b9ab6134973dbe886459000/e9/2592b310/File.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/26bacf2ab3e74e5b9ab6134973dbe886459000/bc/503c6f43/Directory.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="22PhH4lo7zAjUlz4bFlM48sVLaP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,21 +72,41 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6d9e05b5-40c0-4935-a366-bde0b5391244" name="Changes" comment="" />
-      <changelist id="" name="New changelist" comment="" />
-      <changelist id="" name="New changelist" comment="" />
       <created>1639745039287</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639745039287</updated>
       <workItem from="1639745044308" duration="1108000" />
+      <workItem from="1639746172993" duration="3464000" />
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1639746185094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639746185094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
